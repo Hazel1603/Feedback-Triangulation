@@ -4,3 +4,13 @@
     margin-right:auto;
     width: 5%  */
 } 
+
+#title{
+    font-family: 'Avenir Light' ;
+    font-size: 48px;
+}
+
+#desc{
+    font-family: 'Verdana' ;
+    font-size: 24px;
+} 
