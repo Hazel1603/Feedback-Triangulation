@@ -1,6 +1,6 @@
 ## Feedback Triangulation
 
-![Ui]{FeedbackTriangulation.png}
+![Ui](FeedbackTriangulation.png)
 
 Feedback Triangulation is a project that uses Google DataStudio to generate reports from weekly feedback inputted through Google Sheets. 
 
